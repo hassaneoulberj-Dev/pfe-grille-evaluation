@@ -1,6 +1,6 @@
 # La Grille — projet de fin d’études
 
-Application de bureau Python pour saisir des critères d’évaluation d’enseignants, calculer des scores et afficher un classement. Cette description est issue du code ; le titre académique exact, les auteurs, l’établissement et l’année restent à compléter.
+Application de bureau Python pour saisir des critères d’évaluation d’enseignants, calculer des scores et afficher un classement.
 
 ## Fonctionnalités présentes dans le code
 
